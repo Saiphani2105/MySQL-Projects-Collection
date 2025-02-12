@@ -71,7 +71,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📧 Contact
-For queries, reach out via **[Your Email/LinkedIn]**.
+For queries, reach out via **[📧 Contact: [Email Me](mailto:phaneendra.bayi@gmail.com)/[Linkedin](https://www.linkedin.com/in/bai-phaneendra/)]**.
 
 🌟 **Star this repo if you find it useful!**
 
