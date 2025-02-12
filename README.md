@@ -66,7 +66,7 @@ A database for analyzing Netflix shows and movies.
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+This project is licensed under the **[MIT License](https://github.com/Saiphani2105/MySQL-Projects-Collection/blob/main/LICENSE)**.
 
 ---
 
