@@ -57,7 +57,7 @@ A database for analyzing Netflix shows and movies.
 ## 🚀 Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/sql-projects.git
+   git clone https://github.com/Saiphani2105/sql-projects.git
    ```
 2. **Import SQL files** into MySQL.
 3. **Execute creation scripts** in the correct order.
